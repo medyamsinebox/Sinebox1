@@ -12,12 +12,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",22. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/aNoxG.png",23. Kuzey Max HD
-http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
-
-#EXTINF:-1 group-title="Diğer" tvg-logo="https://pbs.twimg.com/media/F-QH1TMXQAAHhKy.png",24. Süper Türk
-http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/3.png",25. Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=849fcwfewrrg&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
@@ -188,6 +182,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",503. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
