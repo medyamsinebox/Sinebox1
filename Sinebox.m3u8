@@ -272,11 +272,11 @@ https://streams.uzunmuhalefet.com/stream/6583f90f-0bff-4523-9547-1c9a96280b2e.m3
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/2bb603cc-f72e-484e-8c70-98f82cc7529d.png" tvg-url="https://www.dreamturk.com.tr/" tvg-id="DreamTurk.tr",357. Dream Türk
 https://streams.uzunmuhalefet.com/stream/99d052f1-9bdc-4fc2-ba48-2db6d9c99b8c.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/b6441709-2184-4419-9203-8efb784857ca.png" tvg-url="https://www.powerapp.com.tr/" tvg-id="PowerTurkTV.tr",358. Powertürk TV
-https://streams.uzunmuhalefet.com/stream/08667b7a-2535-4cc1-9719-76cf7df77eaa.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.powerapp.com.tr/tvs/power-tvs/powerturktv/",358. Powertürk TV
+https://livetv.powerapp.com.tr/powerturkTV/powerturkhd.smil/chunklist_b4596000_sltur.m3u8?nimblesessionid=253454279
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/358e2281-a615-4bfb-92e1-1f093756234a.png" tvg-url="https://www.powerapp.com.tr/" tvg-id="PowerTV.tr",359. Power TV
-https://streams.uzunmuhalefet.com/stream/32907510-bd78-4bba-9972-343311a9e4bd.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.powerapp.com.tr/tvs/power-tvs/powertv/",359. Power TV
+https://livetv.powerapp.com.tr/powerTV/powerhd.smil/chunklist_b4596000_sltur.m3u8?nimblesessionid=253455685
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/528ca8db-dba9-4db0-ba1a-949a8aab2eb7.png" tvg-url="http://www.numberone.com.tr/" tvg-id="Number1Turk.tr",360. Number 1 Türk
 https://streams.uzunmuhalefet.com/stream/1eb6107d-6e37-479a-a81d-7999287bc876.m3u8
@@ -290,20 +290,20 @@ https://streams.uzunmuhalefet.com/stream/1604703d-b882-4ea0-9c4d-bc4ea1f0d463.m3
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/9eea23aa-c93d-4f88-aa68-bbb96473967f.png" tvg-url="http://www.tmb.tv/" tvg-id="TMB.tr",363. TMB TV
 https://streams.uzunmuhalefet.com/stream/56ac94c5-5fba-4265-9170-1fbb136551f8.m3u8
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/58493332-d1cb-4c24-997b-dbfa400937b2.png" tvg-url="https://www.powerapp.com.tr/" tvg-id="",364. Powertürk Taptaze
-https://streams.uzunmuhalefet.com/stream/90969937-2a23-4f9a-9b6f-f779ae3c8900.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.powerapp.com.tr/tvs/power-tvs/powerturktaptazetv/",364. Powertürk Taptaze
+https://listen.powerapp.com.tr/pturktaptaze/taptaze.smil/chunks.m3u8?nimblesessionid=253449072
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/dd255f1a-1e71-408e-8ac5-19db39acadea.png" tvg-url="https://www.powerapp.com.tr/" tvg-id="",365. Powertürk Slow
-https://streams.uzunmuhalefet.com/stream/65d41f62-6a93-495a-813e-95bcd492fc69.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.powerapp.com.tr/tvs/power-tvs/powertrslowtv/",365. Powertürk Slow
+https://listen.powerapp.com.tr/pturkslow/slow.smil/chunks.m3u8?nimblesessionid=253459224
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/8cfeaa96-8d4d-4d39-b6bf-9ec665e6a6c6.png" tvg-url="https://www.powerapp.com.tr/" tvg-id="",366. Powertürk Akustik
-https://streams.uzunmuhalefet.com/stream/9ff07184-e92e-4f45-a0de-1df42c636c7a.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.powerapp.com.tr/tvs/power-tvs/powerturkakustiktv/",366. Powertürk Akustik
+https://live.powerapp.com.tr/powerlove/abr/powerlove/256/chunks.m3u8?nimblesessionid=253440748
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/87bee649-ffb8-4917-9487-29b41c896ce9.png" tvg-url="https://www.powerapp.com.tr/" tvg-id="",367. Power Love
-https://streams.uzunmuhalefet.com/stream/be9d7155-46eb-4a0b-9692-36e442a7245b.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.powerapp.com.tr/tvs/power-tvs/powerlovetv/",367. Power Love
+https://listen.powerapp.com.tr/plove/love.smil/chunks.m3u8?nimblesessionid=253442707
 
-#EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/eaf30d27-3609-4b54-b9fa-089e8d6b6c88.png" tvg-url="https://www.powerapp.com.tr/" tvg-id="",368. Power Dance
-https://streams.uzunmuhalefet.com/stream/891fa76f-923b-4488-890b-367217b83811.m3u8
+#EXTINF:-1 group-title="Müzik" tvg-logo="https://www.powerapp.com.tr/tvs/power-tvs/powerdancetv/",368. Power Dance
+https://listen.powerapp.com.tr/dance/dance.smil/chunks.m3u8?nimblesessionid=253446160
 
 #EXTINF:-1 group-title="Müzik" tvg-logo="https://assets.uzunmuhalefet.com/logos/fe34c8f3-f6cc-41ea-9a84-c61b44272f36.png" tvg-url="http://www.numberone.com.tr/" tvg-id="",369. Number 1 Aşk
 https://streams.uzunmuhalefet.com/stream/3924f253-02b8-420d-aafc-b0857fc5f1e4.m3u8
@@ -331,6 +331,7 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",503. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
 
 
 
