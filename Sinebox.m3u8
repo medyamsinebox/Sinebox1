@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",7. Teleon TV
-https://1a-1791.com/live/kd32s8ur/live-hls/fz4h-qo9a/chunklist_i1_DVR.m3u8
+https://1a-1791.com/live/v13wgnv6/slot-7/g4kq-ewqn/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",20. Play Sinema
 https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
@@ -22,7 +22,7 @@ https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=849fjpvuwqgb&app=a20ac41
 https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=849feeykuj7k&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/4.png",28. ATV
-https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1769573687&st=GXm_xbvdbbvSLj1YkQWbHA&sid=849fm6fkrdbq&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1770004802&st=M287ZncDYrXfTA72p0c2AA&sid=84r8kstomgo2&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/10.png",29. Now TV
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1769586000&st=x2_rVQg8GZHsJw2fMv_uPg
@@ -49,10 +49,10 @@ https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/7.png",37. 360 TV
-https://turkmedya-live.ercdn.net/tv360/tv360_360p-1769529366.ts
+https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/13.png",38. TV 4
-https://yayin2.canlitv.fun/live/sozcutv.stream/chunklist_w1750293584.m3u8?hash=eae6223d2d82ae0f5de54100b2ef1546
+http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 ream/24c7fb3e-e0b5-4d69-8e4d-4c4a1d5fb08f.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://cdn.imagevisit.com/2026/01/28/tv-platformlari-200-x-200-piksel-kopyasi-9.png",51. CNBC-e
@@ -172,20 +172,14 @@ https://live.artidijitalmedya.com/artidijital_brtv/brtv/chunks.m3u8
 #EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/6tC23.png",224. Kanal 53 
 https://kanal53.ozelip.com:3448/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/8d1dab5c-cd89-4450-b4f2-b30402407b43.png" tvg-url="https://rumeliturk.tv/" tvg-id="",225. Rumeli Türk TV
-https://streams.uzunmuhalefet.com/stream/e18990dd-ce05-4bdc-bc32-deb0b485b212.m3u8
-
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/d0df6ded-7fc0-411f-92be-7b4a6f2a3445.png" tvg-url="https://www.serhattv.com.tr/" tvg-id="",226. Serhat TV
-https://streams.uzunmuhalefet.com/stream/7eebfc81-7667-49f0-9cc8-94e05ce24be2.m3u8
+#EXTINF:-1 group-title="Yerel" tvg-logo="https://www.artidijitalmedya.com/tv/sutv/",226. Su TV
+https://live.artidijitalmedya.com/artidijital_sutv/sutv/chunks.m3u8?nimblesessionid=2183886978
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/955594d6-47f9-412f-a4e4-10145d21ab9f.png" tvg-url="https://www.sunrtv.com.tr/" tvg-id="",227. Sun RTV
 https://streams.uzunmuhalefet.com/stream/3355b712-3f92-4eb1-a4be-54f665974ae1.m3u8
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/42148d4d-5c96-4da0-93e0-55f86d8c4322.png" tvg-url="https://www.surmansethaber.net/" tvg-id="",228. Sürmanşet Haber TV
 https://streams.uzunmuhalefet.com/stream/ed2dfd47-f73f-47fb-aa9d-a69c68d49b6b.m3u8
-
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/e02f4580-5766-4c2d-bd41-6ec35325215b.png" tvg-url="http://www.turhalsupertv.com.tr/" tvg-id="",229. Tokat Süper TV
-https://streams.uzunmuhalefet.com/stream/5b0139af-aed0-4c08-8805-ad38555fd3a5.m3u8
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/6e74f3a0-ac78-479f-8c5a-feb38d42b61c.png" tvg-url="https://www.tontv.com.tr/" tvg-id="",230. Ton TV
 https://streams.uzunmuhalefet.com/stream/edd365b2-72a9-4140-85fc-3389abc3bd71.m3u8
@@ -202,33 +196,20 @@ https://streams.uzunmuhalefet.com/stream/a6134173-2b9d-442b-af96-fd4385f278ae.m3
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/a664ab9a-1c43-4fa8-96b3-99da58649000.png" tvg-url="https://tv264.com.tr/" tvg-id="",234. TV 264
 https://streams.uzunmuhalefet.com/stream/23a0e9de-9696-47a8-97ec-3d65abd058be.m3u8
 
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/d57cb5d8-26d1-4db9-9a58-2a63ae76f6f8.png" tvg-url="https://www.tv38.com.tr/" tvg-id="",235. TV 38
-https://streams.uzunmuhalefet.com/stream/058c0390-ccf7-472a-8472-e2c13961a97a.m3u8
-
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/d583bca7-5fbc-4213-92d7-9110f850ab29.png" tvg-url="https://tv41.com.tr/" tvg-id="TV41.tr",236. TV 41
 https://streams.uzunmuhalefet.com/stream/9be90c1e-3678-4299-b4de-7739505049ad.m3u8
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/6c3eb41b-4957-4295-8502-8088e9754ee1.png" tvg-url="https://www.tv52.com.tr/" tvg-id="TV52.tr",237. TV 52
-https://streams.uzunmuhalefet.com/stream/89dd70d5-1028-4426-9df5-cc86d4d230fa.m3u8
+https://edge2.taksimbilisim.com/tv52/bant1/chunks.m3u8?nimblesessionid=241797095
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/5e035236-0bf0-49a4-8a61-d5cb0a2040d8.png" tvg-url="https://tvden.com.tr/" tvg-id="",238. TV DEN
-https://streams.uzunmuhalefet.com/stream/17f2ba49-e38a-4a10-9136-4b61d4c0e924.m3u8
-
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/b3247b72-7f09-4c23-994e-7ba15238e5c9.png" tvg-url="https://www.kentimtv.com.tr/" tvg-id="",239. TV Kentim
-https://streams.uzunmuhalefet.com/stream/73f87a00-3e4e-4b58-82ac-ea28220cce56.m3u8
+https://canli.tvden.com.tr/hls/live-1769960763271.ts
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/f985ac5b-7b39-4b94-965f-1b169a6e3526.png" tvg-url="https://www.urfanatiktv.com/" tvg-id="",240.Urfanatik TV
 https://streams.uzunmuhalefet.com/stream/f4bbf371-4d46-40b8-81b4-bc7abcb77170.m3u8
 
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/f96ef417-bec2-401c-b7fe-bdc39eaab8b0.png" tvg-url="https://viyanatv.com/" tvg-id="",241. Viyana TV
-https://streams.uzunmuhalefet.com/stream/393fe7d6-59ee-4f78-8038-89b0445220b5.m3u8
-
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/8ca0d67a-b187-49b6-a0cb-3894c7858e8c.png" tvg-url="https://vrt.net.tr/" tvg-id="",242. VRT TV
 https://streams.uzunmuhalefet.com/stream/0ceeca01-7e60-4392-87c7-cbc0a3559606.m3u8
-
-#EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/42d0a977-ff5a-4f1d-9b2f-f011983ef1ff.png" tvg-url="https://www.vtv.net.tr/" tvg-id="",243. VTV Türk
-https://streams.uzunmuhalefet.com/stream/e40007cd-51b1-41b0-bbbb-19ce94b275e6.m3u8
-
 
 #EXTINF:-1 group-title="Yerel" tvg-logo="https://assets.uzunmuhalefet.com/logos/e44a3f66-d9c0-408b-94d5-344ad3a4fe01.png" tvg-url="" tvg-id="",244. Aktüel Haber 35 Tv
 https://streams.uzunmuhalefet.com/stream/802a91d7-3f9d-4112-b336-39a10057dec0.m3u8
@@ -334,6 +315,13 @@ https://familyhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://r.resimlink.com/Hl9O5JKDd.jpg",503. Persina Science
 https://scihls.persiana.live/hls/stream.m3u8
+
+#EXTINF:-1 tvg-logo="",504. Warner TV
+http://190.115.15.49:8000/play/a0s6/index.m3u8
+
+#EXTINF:-1 tvg-logo="",505. Universal Crime
+http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
