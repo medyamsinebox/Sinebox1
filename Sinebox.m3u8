@@ -51,6 +51,9 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/13.png",38. TV 4
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bPVocAfGjW0.png",50. Kurtlar Vadisi
+http://87.121.104.29:145/kurtlarvadisipusu/stream.m3u8
+
 ream/24c7fb3e-e0b5-4d69-8e4d-4c4a1d5fb08f.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://cdn.imagevisit.com/2026/01/28/tv-platformlari-200-x-200-piksel-kopyasi-9.png",51. CNBC-e
 https://streams.uzunmuhalefet.com/stream/41cde2c5-8f3c-405f-b5a2-fd6242d1d0a4.m3u8
@@ -318,6 +321,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
