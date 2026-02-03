@@ -3,9 +3,6 @@
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",7. Teleon TV
 https://1a-1791.com/live/v13wgnv6/slot-7/g4kq-ewqn/chunklist_DVR.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/JhZ4a.png",20. Play Sinema
-https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
-
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/C6O1dEvxw.png",21. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
@@ -16,13 +13,13 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=849fcwfewrrg&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/1.png",26. Star TV
-https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=849fjpvuwqgb&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
+https://streams.uzunmuhalefet.com/stream/a8ea8b0b-9c06-41ce-b7f9-35e895c78b77.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/2.png",27. Kanal D
 https://demiroren.daioncdn.net/kanald/kanald_720p.m3u8?&sid=849feeykuj7k&app=da2109ea-5dfe-4107-89ab-23593336ed61&ce=3
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/4.png",28. ATV
-https://trkvz.daioncdn.net/atv/atv_720p.m3u8?e=1770004802&st=M287ZncDYrXfTA72p0c2AA&sid=84r8kstomgo2&app=d1ce2d40-5256-4550-b02e-e73c185a314e&ce=3
+https://streams.uzunmuhalefet.com/stream/c8758555-8581-4dec-9a46-ebcfaf9ace0a.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/10.png",29. Now TV
 https://nowtv-live-ad.ercdn.net/nowtv/nowtv_720p.m3u8?e=1769586000&st=x2_rVQg8GZHsJw2fMv_uPg
@@ -321,6 +318,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
