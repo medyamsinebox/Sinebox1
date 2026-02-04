@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",7. Teleon TV
 https://1a-1791.com/live/v13wgnv6/slot-7/g4kq-ewqn/chunklist_DVR.m3u8
 
+#EXTINF:-1,20. KANAL65 TV
+https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
+
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/C6O1dEvxw.png",21. SDM Sinema
 https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
@@ -327,6 +330,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
