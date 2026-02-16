@@ -36,9 +36,6 @@ https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 13. MegaBox Yerli
 http://162.212.179.33/gin-trn09/gt-sinevizyon-2/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 14. TEST
-https://tv191.radyotelekom.com.tr:3860/stream/play.m3u8
-
 #EXTINF:-1,20. Kanal 65 TV
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
 
@@ -363,6 +360,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
