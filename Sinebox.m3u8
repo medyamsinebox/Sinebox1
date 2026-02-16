@@ -1,6 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",7. Teleon TV
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 1. Filmbox Premier
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395474&extension=ts&play_token=9j1daaYw8g
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 2. Filmbox Drama
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395478&extension=ts&play_token=EUzSYogcIm
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 3. Filmbox Komedi
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395480&extension=ts&play_token=9DF0Dw8jus
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 4. Filmbox Family
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395482&extension=ts&play_token=DJ6Jast1X8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 5. Filmbox Horror
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395479&extension=ts&play_token=pN7YI2hmag
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 6. Filmbox Sci-Fi
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395476&extension=ts&play_token=QOkuCg35Yz
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 7. Filmbox Fantastic
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395477&extension=ts&play_token=Dss0SPNp0t
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 8. Filmbox Romantic
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395481&extension=ts&play_token=0lwWlmEGZx
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 9. Filmbox Yerli
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395483&extension=ts&play_token=vqFqJUt01r
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 10. Filmbox Yeşilçam
+http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&extension=ts&play_token=0YqVbbJcF9
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",11. Teleon TV
 https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
 
 #EXTINF:-1,20. Kanal 65 TV
@@ -327,6 +356,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
