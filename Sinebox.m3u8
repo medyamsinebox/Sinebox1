@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",7. Teleon TV
-https://1a-1791.com/live/v13wgnv6/slot-7/g4kq-ewqn/chunklist_DVR.m3u8
+https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
 
 #EXTINF:-1,20. Kanal 65 TV
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
@@ -11,12 +11,6 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://i.imgur.com/Mm8hdfx.png",22. Deniz Sinema
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.arzufilm.com.tr/",23. Yeşilçam TV 1 HD
-http://87.121.104.29:145/arzufilm/stream.m3u8
-
-#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://www.arzufilm.com.tr/",23. Yeşilçam TV 2 HD
-http://87.121.104.29:145/gulsahfilm/stream.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/3.png",25. Show TV
 https://ciner.daioncdn.net/showtv/showtv_1080p.m3u8?ex=1664766175&st=RBzhSuGauna0OGld-DJUVA&tv=1&sid=849fcwfewrrg&app=4bc856ef-4c68-4a94-bc87-37dfaaa66558&ce=3
@@ -111,6 +105,9 @@ https://ciner.daioncdn.net/ht-spor/ht-spor_1080p.m3u8?ex=0&sid=849ihjbnv870&app=
 
 #EXTINF:-1 group-title="Spor" tvg-logo="https://r.resimlink.com/p8BVryq620C.png",88. TR Spor
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
+
+#EXTINF:-1 group-title="Belgesel & Yaşam" tvg-logo="https://r.resimlink.com/2vejG9hbwnt.png",119. Belgesel TV
+https://streams.uzunmuhalefet.com/stream/c452f35c-c2c5-497f-af4d-df2276bb182a.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/AiISL.png",200. Kanal Avrupa
 http://cdn-kanalavrupa.yayin.com.tr/kanalavrupa/tracks-v1a1/mono.m3u8
@@ -330,6 +327,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
