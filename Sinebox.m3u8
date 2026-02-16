@@ -32,6 +32,12 @@ http://mag.senpay25.com:80/play/live.php?mac=00:1A:79:BA:01:3E&stream=1395484&ex
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/MEHj6.png",11. Teleon TV
 https://1a-1791.com/live/e6pv21nm/slot-87/0d2v-kzql/chunklist_DVR.m3u8
 
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 12. Yeşilçam EN TV
+http://ip252.ozelip.com:1935/ekonomiktv/ekonomiktv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/69PIJAMO.png", 13. Yeşilçam EN TV
+https://live20.bozztv.com/akamaissh101/ssh101/teber_turk/chunks.m3u8
+
 #EXTINF:-1,20. Kanal 65 TV
 https://a8.radyotelekom.com.tr:3063/stream/play.m3u8
 
@@ -356,6 +362,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
