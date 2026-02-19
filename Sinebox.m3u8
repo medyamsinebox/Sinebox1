@@ -79,7 +79,7 @@ https://host.onlineradyotv.net:8081/cine5tv/tracks-v1a1/mono.m3u8
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/chunks.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/14.png",36. Bi Kanal
-
+https://bikanal-live.ercdn.net/bikanal/bikanal.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://cdn.imagevisit.com/2026/01/27/7.png",37. 360 TV
 https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
@@ -360,6 +360,7 @@ http://190.115.15.49:8000/play/a0s6/index.m3u8
 
 #EXTINF:-1 tvg-logo="",505. Universal Crime
 http://190.115.15.49:8000/play/a0sm/index.m3u8
+
 
 
 
