@@ -58,7 +58,7 @@ https://turkmedya-live.ercdn.net/tv360/tv360_720p.m3u8
 http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 
 #EXTINF:-1 group-title="Film & Dizi" tvg-logo="https://r.resimlink.com/bPVocAfGjW0.png",50. Kurtlar Vadisi
-http://87.121.104.29:145/kurtlarvadisipusu/stream.m3u8
+http://87.121.104.29:1071/kurtlarvadisipusu/stream.m3u8?token=c139431681bfae7b0837d28dff1450fc
 
 ream/24c7fb3e-e0b5-4d69-8e4d-4c4a1d5fb08f.m3u8
 #EXTINF:-1 group-title="Ekonomi" tvg-logo="https://cdn.imagevisit.com/2026/01/28/tv-platformlari-200-x-200-piksel-kopyasi-9.png",51. CNBC-e
